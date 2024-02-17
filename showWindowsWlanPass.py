@@ -7,7 +7,7 @@ def timer():
         print (t, end='...')
         time.sleep(1)
         t -= 1
-        print ('')
+        print ('') 
 timer()
 lagi = True
 while(lagi == True):
